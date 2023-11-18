@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/nadhirxz/kodikos-frontend
+[submodule "forecast"]
+	path = forecast
+	url = https://github.com/nadhirxz/kodikos-forecast
